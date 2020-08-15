@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/Amarok24)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/TUX_NERD2_600x600.png" />
 
 I am a (mainly) self-taught webdesigner and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript (but still learning, due to the agile nature of everything around JS). When writing code I try to keep things simple. I don't like bloated or unreadable code, which is one of the reasons why I usually write my own little libraries and frameworks. Another reason is that I like to understand all the details.
 
