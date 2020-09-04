@@ -3,15 +3,22 @@
 ![Profile views](https://gpvc.arturio.dev/Amarok24)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
+<img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-I am a (mainly) self-taught webdesigner and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript (but still learning, due to the agile nature of everything around JS). When writing code I like to keep things simple. I don't like bloated or unreadable code, which is one of the reasons why I usually write my own little libraries and frameworks (where I try to avoid OOP style). I focus only on frontEnd, that's why my backEnd knowledge is very limited (basics of PHP and SQL).
+I am a (mainly) self-taught webdesigner and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript (but still learning, due to the agile nature of everything around JS). When writing code I like to keep things simple. I don't like bloated or unreadable code, which is one of the reasons why I usually write my own little libraries and frameworks (where I try to avoid OOP style).
 
 ### Main skills
 - HTML & XML
 - CSS
 - vanilla JavaScript
 - GNU/Linux (intermediate), mainly Debian-based distros
+
+### Minor skills
+- VueJS
+- PHP
+- SVG
+- SQL
+- Git
 
 🔭 I’m currently working on:
 - JobSearch (a lightweight Jobs.com jobsearch experience)
