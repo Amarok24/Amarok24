@@ -10,13 +10,15 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 ### Main skills
 - HTML & XML
 - CSS
-- vanilla JavaScript
+- vanilla JavaScript (ES6)
 - GNU/Linux (intermediate), mainly Debian-based distros
 
 ### Minor skills
 - VueJS
-- PHP
+- GIMP
 - SVG
+- Wordpress
+- PHP
 - SQL
 - Git
 
