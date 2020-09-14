@@ -26,6 +26,7 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 - JobSearch (a lightweight Jobs.com jobsearch experience)
 
 🌱 I’m currently learning:
+- Sass (SCSS)
 - IndexedDB
 - VueJS
 
