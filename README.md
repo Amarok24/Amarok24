@@ -9,13 +9,13 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 
 ### Main skills
 - HTML & XML
-- CSS
+- CSS, Sass (SCSS)
 - vanilla JavaScript (ES6)
 - GNU/Linux (intermediate), mainly Debian-based distros
+- GIMP
 
 ### Minor skills
 - VueJS
-- GIMP
 - SVG
 - Wordpress
 - PHP
@@ -26,7 +26,7 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 - JobSearch (a lightweight Jobs.com jobsearch experience)
 
 🌱 I’m currently learning:
-- Sass (SCSS)
+- JavaScript (neverending :-))
 - IndexedDB
 - VueJS
 
