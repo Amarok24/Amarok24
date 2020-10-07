@@ -8,19 +8,20 @@
 I am a (mainly) self-taught webdesigner and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript (but still learning, due to the agile nature of everything around JS). When writing code I like to keep things simple, using only my own code whenever it makes sense.
 
 ### Main skills
+- JavaScript (ES6)
 - HTML & XML
 - CSS, Sass (SCSS)
-- vanilla JavaScript (ES6)
 - GNU/Linux (intermediate), mainly Debian-based distros
 - GIMP
 
 ### Minor skills
+- TypeScript
 - VueJS
 - SVG
+- Git
 - Wordpress
 - PHP
 - SQL
-- Git
 
 🔭 I’m currently working on:
 - JobSearch (a lightweight Jobs.com jobsearch experience)
@@ -29,9 +30,7 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 🌱 I’m currently learning:
-- JavaScript (neverending :-))
-- IndexedDB
-- TypeScript
+- TS and JS (neverending :-))
 - VueJS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
