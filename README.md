@@ -16,10 +16,8 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 
 ### Minor skills
 - TypeScript
-- VueJS
-- SVG
 - Git
-- Wordpress
+- SVG
 - PHP
 - SQL
 
