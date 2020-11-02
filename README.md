@@ -5,20 +5,20 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-I am a (mainly) self-taught webdesigner and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript (but still learning, due to the agile nature of everything around JS). When writing code I like to keep things simple, using only my own code whenever it makes sense.
+I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using mainly TypeScript.
 
 ### Main skills
-- JavaScript (ES6)
+- TypeScript
+- JavaScript
 - HTML & XML
 - CSS, Sass (SCSS)
 - GNU/Linux (intermediate), mainly Debian-based distros
 - GIMP
 
 ### Minor skills
-- TypeScript
+- NodeJS, Deno
 - Git
 - SVG
-- PHP
 - SQL
 
 🔭 I’m currently working on:
@@ -28,7 +28,6 @@ I am a (mainly) self-taught webdesigner and programmer, with 13 years of profess
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 🌱 I’m currently learning:
-- TypeScript
 - Angular
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
