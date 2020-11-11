@@ -5,7 +5,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using mainly TypeScript.
+I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using TypeScript for most web projects. I am a big fan of C# language (but not using it professionally).
 
 ### Main skills
 - TypeScript
