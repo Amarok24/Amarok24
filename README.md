@@ -5,7 +5,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using TypeScript and learning Angular and C# (but no time to focus on C#, unfortunately). I apologize for using C# naming conventions and other practices in my TypeScript code :-) I just find C# to be a nice and consistent language.
+I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using TypeScript and learning Angular - and I've encountered C#, which is also the reason why I prefer using C# naming conventions and other practices in my TypeScript code.
 
 ### Main skills
 - HTML, XML
