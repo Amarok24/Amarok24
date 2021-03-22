@@ -5,7 +5,10 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript. In 2020 I've started using TypeScript and learning Angular - and I've encountered C#, which is also the reason why I prefer using C# naming conventions and other practices in my TypeScript code.
+I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript.
+Currently I'm a fulltime employee working from home, I mostly work with HTML, XML, XSLT, JS and TS.
+
+In the year 2020 I've started using TypeScript and learning Angular. I also like other languages, especially the syntax of C# and Dart, but I got no time and mind power for learning so many things at once :-/
 
 ### Main skills
 - HTML, XML
@@ -15,8 +18,8 @@ I am a (mainly) self-taught webdeveloper and programmer, with 13 years of profes
 - GIMP
 
 ### Minor skills
-- NodeJS, Deno
 - Git
+- NodeJS, Deno
 
 💾 I’m currently learning:
 - Angular
