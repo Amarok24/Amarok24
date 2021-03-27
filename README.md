@@ -8,7 +8,7 @@
 I am a (mainly) self-taught webdeveloper and programmer, with 13 years of professional experience in HTML+CSS and over 5 years experience in JavaScript.
 Currently I'm a fulltime employee working from home, I mostly work with HTML, XML, XSLT, JS and TS.
 
-In the year 2020 I've started using TypeScript as my first-choice language. I also like other languages, especially the syntax of C# and Dart, but I got no extra time and mind power for learning so many things at once :-/ Maybe one day...
+In the year 2020 I've started using TypeScript as my first-choice language. I also like other languages, especially the syntax of C# and Dart, so I decided to have a closer look at Dart (as an alternative to TypeScript which I know well).
 
 ### Main skills
 - HTML, XML
@@ -22,7 +22,7 @@ In the year 2020 I've started using TypeScript as my first-choice language. I al
 - NodeJS, Deno
 
 💾 I’m currently learning:
-- Angular
+- Dart
 
 
 ### Some GitHub statistics
