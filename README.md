@@ -15,12 +15,13 @@ In the year 2021 I started using Dart (which has quickly become my favorite lang
 ### Main skills
 - HTML, XML
 - CSS, Sass (SCSS)
-- Dart
 - TypeScript (JS)
 - GNU/Linux (intermediate), familiar with Debian-based distros
 - GIMP
 
 ### Minor skills
+- Dart
+- Angular
 - Git
 - NodeJS, Deno
 
