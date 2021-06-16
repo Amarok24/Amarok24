@@ -14,8 +14,9 @@ In the year 2021 I started using Dart (which has quickly become my favorite lang
 
 ### Main skills
 - HTML, XML
-- CSS, Sass (SCSS)
 - TypeScript (JS)
+- CSS, Sass (SCSS)
+- Bootstrap
 - GNU/Linux (intermediate), familiar with Debian-based distros
 - GIMP
 
