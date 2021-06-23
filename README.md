@@ -5,7 +5,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-Webdeveloper and programmer with 13 years of experience in HTML+CSS and over 5 years in JavaScript and 1 year in TypeScript.
+Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 5 years in JavaScript and 1 year in TypeScript.
 Currently I'm a fulltime employee working from home, I mostly work with HTML, XML, XSLT, JS and TS.
 
 I'm also a geek with interest in 𝑨𝑴𝑰𝑮𝑨 and M68k generally -- especially Amiga500, the greatest personal computer of all time :-)
