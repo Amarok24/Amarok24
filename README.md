@@ -8,7 +8,7 @@
 Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 5 years in JavaScript and 1 year in TypeScript.
 Currently I'm a fulltime employee working from home, I mostly work with HTML, XML, XSLT, JS and TS.
 
-I'm a geek, a gardener, a husband, with interest in 𝑨𝑴𝑰𝑮𝑨 and SEGA Mega Drive (both sharing the legendary M68k CPU) -- with special focus on the Amiga500, the greatest personal computer of all time :-)
+A geek and husband, with interest in 𝑨𝑴𝑰𝑮𝑨 and SEGA Mega Drive (both sharing the legendary M68k CPU) -- with special focus on the Amiga500, the greatest personal computer of all time :-) Other hobbies include gardening and electronics.
 
 ### Main skills
 - HTML, XML
