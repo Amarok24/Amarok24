@@ -5,22 +5,20 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 5 years in JavaScript and 1 year in TypeScript.
+Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 6 years in JavaScript and 1 year in TypeScript.
 Currently I'm a fulltime employee working from home, I mostly work with HTML, XML, XSLT, JS and TS.
 
 A geek and husband, with interest in 𝑨𝑴𝑰𝑮𝑨 and SEGA Mega Drive (both sharing the legendary M68k CPU) -- with special focus on the Amiga500, the greatest personal computer of all time :-) Other hobbies include gardening and electronics.
 
 ### Main skills
 - HTML, XML
-- TypeScript (JS)
-- CSS, Sass (SCSS)
-- Bootstrap
-- GNU/Linux (intermediate), familiar with Debian-based distros
+- TypeScript
+- Angular
+- CSS, Sass, Bootstrap
 - GIMP
+- GNU/Linux (intermediate), familiar with Debian-based distros
 
 ### Minor skills
-- Dart
-- Angular
 - Git
 - NodeJS, Deno
 
