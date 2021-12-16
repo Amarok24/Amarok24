@@ -18,23 +18,22 @@ From a technical point of view I'm a geek and long-time GNU/Linux user. I like m
 - CSS, Sass/SCSS, Bootstrap
 - GNU GIMP
 
-<!--
-💾 I’m currently learning:
-- Flutter
--->
 
-### Some GitHub statistics
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
--->
+
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&hide=html,css&theme=gruvbox)
+-->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Amarok24&show_icons=true&count_private=true&theme=gruvbox)
+---
+***Let's connect on Codewars:***
+
+[<img src="https://www.codewars.com/users/Amarok24/badges/small" alt="Codewars" />](https://www.codewars.com/users/Amarok24)
 
 <!--
-**Amarok24/Amarok24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=Amarok24&show_icons=true&count_private=true&theme=gruvbox)
 -->
