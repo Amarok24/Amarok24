@@ -1,14 +1,15 @@
-### Hello, fellow Githubians. Let me introduce myself with a few facts:
+### Hello, fellow Githubians. Let me introduce myself:
 
 ![Profile views](https://gpvc.arturio.dev/Amarok24)
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 6 years in JavaScript and 2 years in TypeScript.
-Currently I'm a fulltime employee working from home.
+Webdeveloper and programmer with 15 years of experience in HTML+CSS and over 6 years in JavaScript and 2 years in TypeScript. I am no expert, always learning, trying to [keep things simple](https://people.apache.org/~fhanik/kiss.html).
 
-From a technical point of view I'm a geek and long-time GNU/Linux user. I like many things from the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). Let's connect on Twitter if you share similar interests.
+My work schedule is rather flexible, fully working from home 💻🏠 (as many of us).
+
+From a technical point of view I'm a geek and a long-time GNU/Linux user (nowadays at a much lower user level than before, because I have a life, too 😝). I like many things from the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). Let's connect on Twitter if you share similar interests.
 
 ### My main tools
 - 🔤 TypeScript
