@@ -15,7 +15,7 @@ I'm a long-time GNU/Linux user (nowadays at a much lower user level than before,
 - 🔤 TypeScript
 - 🆚 VS Code
 - HTML, XML, XSL
-- Sass/SCSS, Bootstrap
+- SCSS, Bootstrap
 - GNU GIMP
 
 
