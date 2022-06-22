@@ -13,11 +13,11 @@ I'm a long-time GNU/Linux user (nowadays at a much lower user level than before,
 
 ### My main tools
 - 🔤 TypeScript
-- 🆚 VS Code
+- 💠 Lit
 - HTML, XML, XSL
 - SCSS, Bootstrap
 - GNU GIMP
-
+- VS Code
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
@@ -25,9 +25,8 @@ I'm a long-time GNU/Linux user (nowadays at a much lower user level than before,
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&hide=html,css&theme=gruvbox)
 -->
+![User's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&custom_title=GitHub%20lang%20stats)
 
 ---
 ***Let's connect on Codewars:***
