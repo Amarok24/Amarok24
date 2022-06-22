@@ -12,12 +12,12 @@ My work schedule is rather flexible, fully working from home 💻🏠 (as many o
 I'm a long-time GNU/Linux user (nowadays at a much lower user level than before, because I have a life, too 😝). I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). But my garden 🌳 is my happy place.
 
 ### My main tools
-- 🔤 TypeScript
-- 💠 Lit
+- 🔤 [TypeScript](https://www.typescriptlang.org/)
+- 🔷 [Lit](https://lit.dev/)
 - HTML, XML, XSL
-- SCSS, Bootstrap
-- GNU GIMP
-- VS Code
+- [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
+- [GNU GIMP](https://www.gimp.org/)
+- [VS Code](https://code.visualstudio.com/)
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
