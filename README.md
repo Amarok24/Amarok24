@@ -5,7 +5,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-Webdeveloper, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020<!--, pretty new to Angular-->. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://people.apache.org/~fhanik/kiss.html).
+Webdeveloper, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020<!--, pretty new to Angular-->. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
 
 My work schedule is rather flexible, fully working from home 💻🏠 (as many of us).
 
