@@ -7,8 +7,6 @@
 
 FullStack developer, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020, Java since 2022. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
 
-My work schedule is rather flexible, fully working from home 💻🏠.
-
 I'm a long-time GNU/Linux user (nowadays at a much lower user level than before, because I have a life, too 😝). I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). But my garden 🌳 is my happy place.
 
 ### My main tools
