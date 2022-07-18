@@ -5,7 +5,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="180" align="right" alt="Github" src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/resources/TUX_NERD2_600x600.svg" />
 
-Webdeveloper, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020, Java since 2022. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
+FullStack developer, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020, Java since 2022. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
 
 My work schedule is rather flexible, fully working from home 💻🏠.
 
@@ -14,8 +14,9 @@ I'm a long-time GNU/Linux user (nowadays at a much lower user level than before,
 ### My main tools
 - 🔤 [TypeScript](https://www.typescriptlang.org/)
 - ☕ [Java](https://en.wikipedia.org/wiki/OpenJDK)
-- 🔷 [Lit framework](https://lit.dev/)
-- HTML, XML, XSL
+- [SQLite](https://www.sqlite.org/)
+- [Lit framework](https://lit.dev/)
+- HTML, XML, XSLT
 - [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
 - [GNU GIMP](https://www.gimp.org/)
 - [VS Code](https://code.visualstudio.com/)
