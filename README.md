@@ -7,7 +7,7 @@
 
 FullStack developer, HTML+CSS since 2005, JavaScript since 2015, TypeScript since 2020, Java and C90 since 2022. I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
 
-I'm a long-time GNU/Linux user (nowadays at a much lower user level than before, because I have a life, too 😝).<br /> I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). But my garden 🌳 is my happy place.
+I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br /> I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). But my garden 🌳 is my happy place.
 
 ### My main tools
 - 🔤 [TypeScript](https://www.typescriptlang.org/)
@@ -19,7 +19,7 @@ I'm a long-time GNU/Linux user (nowadays at a much lower user level than before,
 - [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
 - [GNU GIMP](https://www.gimp.org/)
 - [VS Code](https://code.visualstudio.com/)
-- [Debian GNU/Linux](https://www.debian.org/)
+- 🐧 [Debian GNU/Linux](https://www.debian.org/)
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
