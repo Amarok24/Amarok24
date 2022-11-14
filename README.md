@@ -12,8 +12,8 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs). But my garden 🌳 is my happy place.
 
 ### My main tools
+- 🐘 [PHP](https://en.wikipedia.org/wiki/PHP)
 - 🔤 [TypeScript](https://www.typescriptlang.org/)
-- [PHP](https://en.wikipedia.org/wiki/PHP)
 - [SQLite](https://www.sqlite.org/) <!-- - [Lit framework](https://lit.dev/) -->
 - HTML, XML, XSLT
 - [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
