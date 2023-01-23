@@ -13,8 +13,8 @@ I'm a long-time GNU/Linux user (nowadays at a lower user level than before, beca
 
 ### My main tools
 - 🐘 [PHP](https://en.wikipedia.org/wiki/PHP)
-- 🔤 [TypeScript](https://www.typescriptlang.org/)
-- [SQLite](https://www.sqlite.org/) <!-- - [Lit framework](https://lit.dev/) -->
+- [TypeScript](https://www.typescriptlang.org/)/JS
+- [SQL](https://en.wikipedia.org/wiki/SQL) <!-- - [Lit framework](https://lit.dev/) -->
 - HTML, XML, XSLT
 - [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
 - [GNU GIMP](https://www.gimp.org/)
