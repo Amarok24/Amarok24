@@ -12,7 +12,7 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs). But my garden 🌳 is my happy place.
 
 ### My main tools
-[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-original.svg" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-elephant.png" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/mysql-original-wordmark.svg" alt="MySQL" height="40" />](https://en.wikipedia.org/wiki/SQL)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/typescript-original.svg" alt="TypeScript" height="40" />](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/javascript-original.svg" alt="JavaScript" height="40" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
