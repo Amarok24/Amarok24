@@ -12,17 +12,20 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs). But my garden 🌳 is my happy place.
 
 ### My main tools
-- 🐘 [PHP](https://en.wikipedia.org/wiki/PHP)
-- [TypeScript](https://www.typescriptlang.org/)/JS
-- [SQL](https://en.wikipedia.org/wiki/SQL) <!-- - [Lit framework](https://lit.dev/) -->
-- HTML, XML, XSLT
-- [SCSS](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/)
-- [GNU GIMP](https://www.gimp.org/)
-- [VS Code](https://code.visualstudio.com/)
-- 🐧 [Debian GNU/Linux](https://www.debian.org/)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-original.svg" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/mysql-original-wordmark.svg" alt="MySQL" height="40" />](https://en.wikipedia.org/wiki/SQL)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/typescript-original.svg" alt="TypeScript" height="40" />](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/javascript-original.svg" alt="JavaScript" height="40" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/html5-plain-wordmark.svg" alt="HTML" height="40" />]()
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/sass-original.svg" alt="SCSS" height="40" />](https://sass-lang.com/)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" />](https://getbootstrap.com/)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/gimp-plain-wordmark.svg" alt="GNU GIMP" height="40" />](https://www.gimp.org/)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/debian-plain-wordmark.svg" alt="Debian GNU/Linux" height="40" />](https://www.debian.org/)
+<!-- [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/laravel-plain-wordmark.svg" alt="Laravel" height="40" />]() -->
+
 
 <!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jan_Prager)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
