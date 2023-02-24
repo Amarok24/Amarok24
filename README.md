@@ -16,6 +16,7 @@ I'm a long-time GNU/Linux user (nowadays at a lower user level than before, beca
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/mysql-original-wordmark.svg" alt="MySQL" height="40" />](https://en.wikipedia.org/wiki/SQL)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/typescript-original.svg" alt="TypeScript" height="40" />](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/javascript-original.svg" alt="JavaScript" height="40" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xml-plain.png" alt="XML" height="40" />]()
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/html5-plain-wordmark.svg" alt="HTML" height="40" />]()
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/sass-original.svg" alt="SCSS" height="40" />](https://sass-lang.com/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" />](https://getbootstrap.com/)
