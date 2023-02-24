@@ -7,7 +7,7 @@
 
 FullStack developer, but today preferably on the back-end side where things are not as turbulent as on front-end.
 
-I don't consider myself to be an expert; always learning (and forgetting 😸), trying to [keep things simple](https://horasion.eu/articles/kiss_principle_keep_it_simple.xhtml).
+I don't consider myself to be an expert; always learning (and forgetting 😸), trying to keep things simple.
 
 I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs). But my garden 🌳 is my happy place.
 
