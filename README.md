@@ -24,6 +24,10 @@ I'm a long-time GNU/Linux user (nowadays at a lower user level than before, beca
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/debian-plain-wordmark.svg" alt="Debian GNU/Linux" height="40" />](https://www.debian.org/)
 <!-- [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/laravel-plain-wordmark.svg" alt="Laravel" height="40" />]() -->
 
+### Wanna get in touch?
+I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xmpp-logo-text-cropped.svg" alt="XMPP" height="28" />](https://xmpp.org/software/), here's my XMPP address: 
+[amarok24@jix.im](xmpp://amarok24@jix.im)
+
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
