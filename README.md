@@ -25,7 +25,7 @@ I'm a long-time GNU/Linux user (nowadays at a lower user level than before, beca
 <!-- [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/laravel-plain-wordmark.svg" alt="Laravel" height="40" />]() -->
 
 ### Wanna get in touch?
-I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xmpp-logo-text-cropped.svg" alt="XMPP" height="28" />](https://xmpp.org/software/), here's my XMPP address: 
+I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xmpp-logo-text-cropped.svg" alt="XMPP" height="28" />](https://xmpp.org/software/), here's my Jabber-ID: 
 [amarok24@jix.im](xmpp:amarok24@jix.im)
 
 
