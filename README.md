@@ -5,7 +5,7 @@ FullStack developer, but today preferably on the back-end side where things are 
 
 I don't consider myself to be an expert; always learning (and forgetting 😸), trying to keep things simple.
 
-I'm a long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs). But my garden 🌳 is my happy place.
+Long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but finding too little time for most hobbies. Despite being a geek, my garden 🌳 is my happy place.
 
 ### My main tools
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-elephant.png" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
@@ -23,7 +23,6 @@ I'm a long-time GNU/Linux user (nowadays at a lower user level than before, beca
 ### Wanna get in touch?
 I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xmpp-logo-text-cropped.svg" alt="XMPP" height="28" />](https://xmpp.org/software/), here's my Jabber-ID: 
 [amarok24@jix.im](xmpp:amarok24@jix.im)
-
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
