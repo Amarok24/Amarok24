@@ -7,6 +7,8 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 
 Long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but finding too little time for most hobbies. Despite being a geek, my garden 🌳 is my happy place.
 
+- As of November 2023 I don't longer use GitHub for private projects since there are good alternatives which are not under control of big tech companies. I have also removed some of my repositories from GitHub.
+
 ### My main tools
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-elephant.png" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/mysql-original-wordmark.svg" alt="MySQL" height="40" />](https://en.wikipedia.org/wiki/SQL)
@@ -31,12 +33,7 @@ I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/maste
 src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 
 -->
-![User's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&custom_title=GitHub%20lang%20stats)
-
----
-***Let's connect on Codewars:***
-
-[<img src="https://www.codewars.com/users/Amarok24/badges/small" alt="Codewars" />](https://www.codewars.com/users/Amarok24)
+![User's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&custom_title=My%20GitHub%20lang%20stats)
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Amarok24&show_icons=true&count_private=true&theme=gruvbox)
