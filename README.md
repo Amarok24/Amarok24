@@ -32,10 +32,7 @@ I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/maste
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 
--->
 ![User's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarok24&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&custom_title=My%20GitHub%20lang%20stats)
-
-<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Amarok24&show_icons=true&count_private=true&theme=gruvbox)
 
 <a href="https://github.com/amarok24">
