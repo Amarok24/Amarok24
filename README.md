@@ -7,24 +7,22 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 
 Long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but finding too little time for most hobbies. Despite being a geek, my garden 🌳 is my happy place.
 
-- As of November 2023 I don't longer use GitHub for private projects since there are good alternatives which are not under control of big tech companies. I have also removed some of my repositories from GitHub.
+- As of November 2023 I don't longer use GitHub for private projects since there are good alternatives which are not under control of big tech companies. I have also removed some of my repositories from GitHub. You can find some of my new projects on [Codeberg](https://codeberg.org/amarok24)
 
 ### My main tools
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-elephant.png" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/mysql-original-wordmark.svg" alt="MySQL" height="40" />](https://en.wikipedia.org/wiki/SQL)
-[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/typescript-original.svg" alt="TypeScript" height="40" />](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/javascript-original.svg" alt="JavaScript" height="40" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xml-plain.png" alt="XML" height="40" />]()
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/html5-plain-wordmark.svg" alt="HTML" height="40" />]()
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/sass-original.svg" alt="SCSS" height="40" />](https://sass-lang.com/)
-[<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" />](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/gimp-plain-wordmark.svg" alt="GNU GIMP" height="40" />](https://www.gimp.org/)
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/debian-plain-wordmark.svg" alt="Debian GNU/Linux" height="40" />](https://www.debian.org/)
 <!-- [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/laravel-plain-wordmark.svg" alt="Laravel" height="40" />]() -->
 
 ### Wanna get in touch?
 I recommend [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/xmpp-logo-text-cropped.svg" alt="XMPP" height="28" />](https://xmpp.org/software/), here's my Jabber-ID: 
-[amarok24@jix.im](xmpp:amarok24@jix.im)
+[amarok@xmpp.social](xmpp:amarok@xmpp.social)
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amarok24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amarok24) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amarok24)  
@@ -40,5 +38,5 @@ src="https://github-readme-stats.vercel.app/api?username=XXXXXXXX&show_icons=tru
 </a>
 -->
 
-![](https://komarev.com/ghpvc/?username=Amarok24&color=blueviolet&style=plastic&label=views+since+Nov23)
+![](https://komarev.com/ghpvc/?username=Amarok24&color=blueviolet&style=plastic&label=views+since+Nov2023)
 
