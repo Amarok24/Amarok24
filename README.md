@@ -5,7 +5,9 @@ FullStack developer, but today preferably on the back-end side where things are 
 
 I don't consider myself to be an expert; always learning (and forgetting 😸), trying to keep things simple.
 
-Long-time GNU/Linux user (nowadays at a lower user level than before, because I have a life, too 😝).<br />I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU), I also like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but finding too little time for most hobbies. Despite being a geek, my garden 🌳 is my happy place.
+Long-time GNU/Linux user, Debian is my distro of choice.<br />
+
+I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). I like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but I'm not really good at it. Despite being a geek, my garden 🌳 is my happy place.
 
 - As of November 2023 I don't longer use GitHub for private projects since there are good alternatives which are not under control of big tech companies. I have also removed some of my repositories from GitHub. You can find some of my new projects on [Codeberg](https://codeberg.org/amarok24)
 
