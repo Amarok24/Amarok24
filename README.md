@@ -7,9 +7,9 @@ I don't consider myself to be an expert; always learning (and forgetting 😸), 
 
 Long-time GNU/Linux user, Debian is my distro of choice.<br />
 
-I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). I like the old-school feeling when programming in [C99](https://en.wikipedia.org/wiki/C99) (CLI programs), but I'm not really good at it. Despite being a geek, my garden 🌳 is my happy place.
+I like the 80s and 90s, with special interest in the 𝑨𝑴𝑰𝑮𝑨 500 and SEGA Mega Drive (both sharing the legendary M68k CPU). Despite being a geek, my garden 🌳 is my happy place.
 
-- As of November 2023 I don't longer use GitHub for private projects since there are good alternatives which are not under control of big tech companies. I have also removed some of my repositories from GitHub. You can find some of my new projects on [Codeberg](https://codeberg.org/amarok24)
+- As of November 2023 I don't longer use GitHub for my private projects, since there are good alternatives which are not under control of big tech companies. That's why I have removed some of my repositories from GitHub and moved them to [Codeberg](https://codeberg.org/amarok24).
 
 ### My main tools
 [<img src="https://raw.githubusercontent.com/Amarok24/Amarok24/master/devicons/php-elephant.png" alt="PHP" height="40" />](https://en.wikipedia.org/wiki/PHP)
